@@ -5,12 +5,12 @@ import "fmt"
 func main() {
 	fmt.Println("Hello Master")
 
-	// getGames()
+	getGames("20250306")
 	// GetAllLeagues()
 	// GetTeamById()
 	// GetFirstHalfStats()
 	// GetHighlights()
 	// testApi()
 	// GetFirstHalfStats2()
-	GetEventById()
+	// GetEventById()
 }
