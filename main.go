@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello Master")
 
-	getGames("20250306")
+	// getGames("20250306")
 	// GetAllLeagues()
 	// GetTeamById()
 	// GetFirstHalfStats()
@@ -13,4 +13,6 @@ func main() {
 	// testApi()
 	// GetFirstHalfStats2()
 	// GetEventById()
+	// GetAllCountries()
+	GetAllTeams()
 }
